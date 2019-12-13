@@ -1,0 +1,5 @@
+Cards: 7♦ a♣ 8♦ 9♦ 2♦ high-card
+
+Cards: k♦ k♣ 5♠ k♥ 5♦ full-house
+
+Cards: 2♠ k♠ 10♦ 6♥ q♥ high-card
